@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I'm Lucas 👋
+## ❤ to Build - FrontEnd Developer & Enthusiast!
 
-<!--
-**LucasLeandroBR/LucasLeandroBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Lucas — a **FrontEnd** at **Agência Vmais** building some real stuff through code & coffee. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship. ✌💖 
 
-Here are some ideas to get you started:
+<!-- section - skills -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I work on .. 💻
+
+VueJS . CSS3 . Docker . HTTP
+
+Twitch Extensions . Discord Bot
+
+Postgresql . MongoDB
+
+JavaScript
+
+<!-- section - skills -->
+
+## On the job .. 💯
+
+> FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br)  ⭐
+
+
+## My Absolute Favorites .. 💖
+
+🦄 I love _CODING_
+
+👨‍💻 I _BUILD_ resilient apps & services
+
+📰 Reading & writing _TECH BLOGS_
+
+🍕 _HACKATHONS_ & problem solving
+
+<!-- section - interests -->
