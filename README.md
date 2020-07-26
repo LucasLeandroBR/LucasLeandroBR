@@ -17,10 +17,17 @@ JavaScript
 
 <!-- section - skills -->
 
-## On the job .. 💯
+## On the job and Projects Completes .. 💯
 
-> FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br)  ⭐
+> Front-End Developer - [**Agência Vmais**](https://agenciavmais.com.br)  ⭐ <br>
+> Content Moderator / Forum Moderator - [**Sandbox Interactive / Albion Online**](https://albiononline.com) ⭐ <br>
 
+> Albion Online - [**Twitch Extension**](https://dashboard.twitch.tv/extensions/v0lxwycej4s00u4v20lrgrgp354k6n-0.0.1)<br>
+> Uypay Pagamentos - [**Payment Platform**](https://www.uypay.com.br)<br>
+> TaProcurando.com - [**Hostel Platform**](https://taprocurando.com.br)<br>
+> Vefitness - [**Personal Trainer**](https://vefitness.com.br)<br>
+
+> ⭐ for working at moment
 
 ## My Absolute Favorites .. 💖
 
