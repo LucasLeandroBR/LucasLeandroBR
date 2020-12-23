@@ -19,7 +19,8 @@ JavaScript
 
 ## On the job .. 💯
 
-> FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br)  ⭐
+> FrontEnd Developer - [**Agência Vmais**](https://xekout.app/)  ⭐
+> FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br) - 1 year 2 months
 
 
 ## My Absolute Favorites .. 💖
