@@ -19,8 +19,8 @@ JavaScript
 
 ## On the job .. 💯
 
-> FrontEnd Developer - [**Xekout Group**](https://xekout.app/) ⭐ <br>
-> FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br) - 1 year 2 months
+> Pleno FrontEnd Developer - [**Xekout Group**](https://xekout.app/) ⭐ <br>
+> Junior FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br) - 1 year 2 months
 
 
 ## My Absolute Favorites .. 💖
