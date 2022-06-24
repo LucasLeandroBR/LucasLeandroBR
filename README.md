@@ -7,7 +7,7 @@ Hi, I'm Lucas — a **FrontEnd** at **Agência Vmais** building some real stuff 
 
 ## I work on .. 💻
 
-VueJS . CSS3 . Docker . HTTP
+VUE . NUXT . SCSS/CSS3 . DOCKER . HTTP/GRAPHQL . LARAVEL
 
 Twitch Extensions . Discord Bot
 
@@ -19,8 +19,12 @@ JavaScript
 
 ## On the job .. 💯
 
-> Pleno FrontEnd Developer - [**Xekout Group**](https://xekout.app/) ⭐ <br>
-> Junior FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br) - 1 year 2 months
+> Sênior FrontEnd Developer - [**Farmarcas**](http://farmarcas.com.br/) ⭐ Current <br>
+> Sênior FrontEnd Developer - [**Linepay**](https://linepay.com.br/) ⭐ Current <br>
+> Customer Support - [**Albion Online**](https://albiononline.com/) ⭐ Current <br>
+> Pleno FrontEnd Developer - [**Xekout Group**](https://xekout.app/) 6 months <br>
+> Junior FrontEnd Developer - [**MEBR**](https://mebr.com.br/) - 1 year <br>
+> Junior FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br/) - 1 year 2 months
 
 
 ## My Absolute Favorites .. 💖
