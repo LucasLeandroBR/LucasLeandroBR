@@ -19,11 +19,12 @@ JavaScript
 
 ## On the job .. 💯
 
-> Sênior FrontEnd Developer - [**Farmarcas**](http://farmarcas.com.br/) ⭐ Current <br>
-> Sênior FrontEnd Developer - [**Linepay**](https://linepay.com.br/) ⭐ Current <br>
+> Scrum master Lead - [**Evermart**](http://ever.com.br/) ⭐ Current <br>
 > Customer Support - [**Albion Online**](https://albiononline.com/) ⭐ Current <br>
+> Sênior FrontEnd Developer - [**Linepay**](https://linepay.com.br/) 8 months <br>
+> Sênior FrontEnd Developer - [**Farmarcas**](http://farmarcas.com.br/) 4 months <br>
 > Pleno FrontEnd Developer - [**Xekout Group**](https://xekout.app/) 6 months <br>
-> Junior FrontEnd Developer - [**MEBR**](https://mebr.com.br/) - 1 year <br>
+> Junior FrontEnd Developer - [**MEBR**](https://mebr.com.br/) - 1.2 year <br>
 > Junior FrontEnd Developer - [**Agência Vmais**](https://agenciavmais.com.br/) - 1 year 2 months
 
 
